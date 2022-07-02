@@ -1,0 +1,26 @@
+{
+  "name": "serverless-partner",
+  "version": "1.0.0",
+  "description": "![header](https://user-images.githubusercontent.com/69332964/114803220-14269100-9d6d-11eb-9a3a-e92a637e5d79.png)\r ## Intro To Serverless Pair-Programming\r *Throughout the bootcamp, you will be presented with a problem each week that aims to reinforce the skills you learned that week.*\r ### ✏️ Guidelines\r * You will work with a partner\r * Whoever is \"driving\" that week will submit their code on behalf of you both\r * Fork this repo to get started!",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.10.0",
+    "parse-multipart": "^1.0.4"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmchang35/serverless-partner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmchang35/serverless-partner/issues"
+  },
+  "homepage": "https://github.com/jmchang35/serverless-partner#readme"
+}
